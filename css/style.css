@@ -376,6 +376,7 @@ header .header_download{
 /**third section**/
     .third_section .third_section_container_one{
         display: flex;
+        gap: 2rem;
         flex-direction: column;
         
     }
