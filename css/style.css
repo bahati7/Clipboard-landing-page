@@ -379,7 +379,7 @@ header .header_download{
         flex-direction: column;
         
     }
-    .third_section .third_section_container_one .create{
+    .third_section .third_section_container_one .create,.plain,.sneak{
         margin-top: 2rem;
 
     }
